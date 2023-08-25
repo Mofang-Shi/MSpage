@@ -1,7 +1,7 @@
 {
   "name": "educator-js-codespace-template",
   "version": "1.0.0",
-  "description": "Educator JS Codespace Template",
+  "description": "Mofang's Website",
   "source": "src/index.html",
   "homepage": "https://mofang-shi/github.io/MSpage",
   "scripts": {
